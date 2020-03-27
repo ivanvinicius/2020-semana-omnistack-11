@@ -1,0 +1,11 @@
+## Web
+1. login de ONG
+2. logout de ONG
+3. cadastro de ONG
+4. cadastrar novos casos
+5. deletar novos casos
+6. listar os casos específicos de uma ONG
+
+## Mobile
+1. listar todos os casos
+2. entrar em contato com a ONG
