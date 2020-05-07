@@ -12,6 +12,6 @@ A nice application to help ONGs in your town
 
 ## Project Overview
 
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot1.jpeg)
 
 ### keep coding!
